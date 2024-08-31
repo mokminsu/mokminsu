@@ -23,6 +23,9 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 * Tools: Git, Gradle, Maven
 * Frameworks: Flask, Spring Boot
 
+## Certifications
+* [TOPCIT](https://www.topcit.or.kr/) 458 points - May 2024
+
 <!-- Uncomment and fill out when you have relevant information
 ## Experience
 * [Company Name](link to company) - Job Title (Date)
