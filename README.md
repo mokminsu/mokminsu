@@ -36,4 +36,4 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 -->
 
 ## Contact
-* Email: mokminsu7@gmail.com
+* Email: [contact@mokminsu.dev](mailto:contact@mokminsu.dev)
