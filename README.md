@@ -17,6 +17,7 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 
 ## Projects
 * [SCHU-Notify](https://github.com/mokminsu/SCHU-Notify) - A project that crawls Soonchunhyang University's academic announcement board and sends notifications to Slack. Implemented with Python and BeautifulSoup for web scraping and integrated with Slack API for notifications.
+* [CLR_Hosting_Injection](https://github.com/mokminsu/CLR_Hosting_Injection) - A project that enables the injection and execution of .NET assemblies within unmanaged code processes. The primary function, `NETInjection`, allows specific methods within a .NET assembly to be called with arguments and returns a result. Implemented in C++ with the .NET Framework for seamless integration between managed and unmanaged code.
 
 ## Skills (Basic)
 * Languages: Python, Java, C++, C#
