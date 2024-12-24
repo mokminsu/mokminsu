@@ -25,7 +25,7 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 * Frameworks: Flask, Spring Boot
 
 ## Certifications
-* [TOPCIT](https://www.topcit.or.kr/) 568 points - May 2024
+* [TOPCIT](https://www.topcit.or.kr/) 568 points - October 2024
 
 <!-- Uncomment and fill out when you have relevant information
 ## Experience
