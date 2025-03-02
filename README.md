@@ -13,14 +13,14 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mokminsu)](https://solved.ac/profile/mokminsu)
 
 ## Activities
-* April 2024 - Present: SW Frontier 3rd, Soonchunhyang University
+* April 2024 - December 2024: SW Frontier 3rd, Soonchunhyang University
 
 ## Projects
 * [SCHU-Notify](https://github.com/mokminsu/SCHU-Notify) - A project that crawls Soonchunhyang University's academic announcement board and sends notifications to Slack. Implemented with Python and BeautifulSoup for web scraping and integrated with Slack API for notifications.
 * [CLR_Hosting_Injection](https://github.com/mokminsu/CLR_Hosting_Injection) - A project that enables the injection and execution of .NET assemblies within unmanaged code processes. The primary function, `NETInjection`, allows specific methods within a .NET assembly to be called with arguments and returns a result. Implemented in C++ with the .NET Framework for seamless integration between managed and unmanaged code.
 
 ## Skills (Basic)
-* Languages: Python, Java, C++, C#
+* Languages: Python, Java, Kotlin, C++, C#, Lua, PHP
 * Tools: Git, Gradle, Maven
 * Frameworks: Flask, Spring Boot
 
