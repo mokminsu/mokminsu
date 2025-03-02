@@ -14,6 +14,7 @@ I am a passionate student majoring in Computer Software Engineering at Soonchunh
 
 ## Activities
 * April 2024 - December 2024: SW Frontier 3rd, Soonchunhyang University
+* January 2024 - December 2024: Student Council, SW Convergence College, Soonchunhyang University
 
 ## Projects
 * [SCHU-Notify](https://github.com/mokminsu/SCHU-Notify) - A project that crawls Soonchunhyang University's academic announcement board and sends notifications to Slack. Implemented with Python and BeautifulSoup for web scraping and integrated with Slack API for notifications.
