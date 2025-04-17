@@ -1,7 +1,6 @@
 # Minsu Mok
 
-> Knowledge is power. <br>
-> \- Francis Bacon \-
+> Quidquid latine dictum sit altum videtur.
 
 ## About Me 
 I am a passionate student majoring in Computer Software Engineering at Soonchunhyang University, with interests in backend development, information security, and software development.
